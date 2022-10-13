@@ -1,3 +1,5 @@
 file 1 content
 
 fix bug
+
+To bedzie przyklad na ogarniecie pull requesta.
