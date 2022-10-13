@@ -18,4 +18,4 @@ C3 : hotfix by another user
 
 To bedzie na pull request squashed
 
-A
+AB
